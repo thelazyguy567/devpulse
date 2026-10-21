@@ -1,0 +1,12 @@
+[
+  {"q": "Is facebook/react production ready?", "expect": ["health", "security", "devops"]},
+  {"q": "Does vuejs/core have any security advisories?", "expect": ["security"]},
+  {"q": "How many open pull requests does microsoft/vscode have?", "expect": ["pr_review"]},
+  {"q": "Is the CI pipeline for pallets/flask passing?", "expect": ["devops"]},
+  {"q": "Is tiangolo/fastapi actively maintained?", "expect": ["health"]},
+  {"q": "What is the latest release of django/django?", "expect": ["release_notes"]},
+  {"q": "List open issues for psf/requests", "expect": ["issue_triage"]},
+  {"q": "Tell me about torvalds/linux", "expect": ["repo_info"]},
+  {"q": "Is it maintained and does CI pass for numpy/numpy?", "expect": ["health", "devops"]},
+  {"q": "Any vulnerabilities and what is the newest version of expressjs/express?", "expect": ["security", "release_notes"]}
+]
